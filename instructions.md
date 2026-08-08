@@ -1,0 +1,1 @@
+Your inspection compiles into a live five-check auditor and a public repo. A stranger points it at their own failing setup and gets your discipline — the walk, the per-check numbers, the tripwire — applied to their case. Every shipped file must open on the builder's specimen, not a pack demo.
